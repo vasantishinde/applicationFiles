@@ -1,7 +1,7 @@
 spring.datasource.driver-class-name: com.mysql.cj.jdbc.Driver
-spring.datasource.url: jdbc:mysql://54.90.245.110:3306/test?useSSL=false&serverTimezone=America/New_York
+spring.datasource.url: jdbc:mysql://localhost:3306/test?useSSL=false&serverTimezone=America/New_York
 spring.datasource.username: root
-spring.datasource.password: gTMi0ch8Rx3Bn43J$
+spring.datasource.password: root
 
 spring.jpa.open-in-view: false
 spring.jpa.databasePlatform: org.hibernate.dialect.MySQL8Dialect
